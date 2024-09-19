@@ -9,9 +9,9 @@ Logging for enhanced debugging and monitoring
 
 ## Technologies Used:
 
-pandas
-numpy
-matplotlib
-scikit-learn
+* pandas
+* numpy
+* matplotlib
+* scikit-learn
 
 This script is ideal for data analysts and scientists working on customer retention and financial behavior projects.
